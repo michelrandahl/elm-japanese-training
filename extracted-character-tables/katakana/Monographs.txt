@@ -1,0 +1,70 @@
+Monographs | gojūon
+a	i	u	e	o
+
+Ø
+ア a [a]
+イ i [i]
+ウ u [ɯ]
+エ e [e]
+オ o [o]
+
+K
+カ ka [ka]
+キ ki [ki]
+ク ku [kɯ]
+ケ ke [ke]
+コ ko [ko]
+
+S
+サ sa [sa]
+シ shi [ɕi]
+ス su [sɯ]
+セ se [se]
+ソ so [so]
+
+T
+タ ta [ta]
+チ chi [t͡ɕi]
+ツ tsu [t͡sɯ]
+テ te [te]
+ト to [to]
+
+N
+ナ na [na]
+ニ ni [ɲi]
+ヌ nu [nɯ]
+ネ ne [ne]
+ノ no [no]
+
+H
+ハ ha [ha]
+ヒ hi [çi]
+フ fu [ɸɯ]
+ヘ he [he]
+ホ ho [ho]
+
+M
+マ ma [ma]
+ミ mi [mi]
+ム mu [mɯ]
+メ me [me]
+モ mo [mo]
+
+Y
+ヤ ya [ja]
+ユ yu [jɯ]
+ヨ yo [jo]
+
+R
+ラ ra [ɾa]
+リ ri [ɾi]
+ル ru [ɾɯ]
+レ re [ɾe]
+ロ ro [ɾo]
+
+W
+ワ wa [ɰa]
+ヲ wo [o]
+
+N
+ン n

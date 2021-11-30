@@ -1,0 +1,37 @@
+Monographs with diacritics | gojūon with (han)dakuten
+a	i	u	e	o
+
+G
+ガ ga [ɡa]
+ギ gi [ɡi]
+グ gu [ɡɯ]
+ゲ ge [ɡe]
+ゴ go [ɡo]
+
+Z
+ザ za [za]
+ジ ji [(d)ʑi]
+ズ zu [(d)zɯ]
+ゼ ze [ze]
+ゾ zo [zo]
+
+D
+ダ da [da]
+ヂ ji [(d)ʑi]
+ヅ zu [(d)zɯ]
+デ de [de]
+ド do [do]
+
+B
+バ ba [ba]
+ビ bi [bi]
+ブ bu [bɯ]
+ベ be [be]
+ボ bo [bo]
+
+P
+パ pa [pa]
+ピ pi [pi]
+プ pu [pɯ]
+ペ pe [pe]
+ポ po [po]

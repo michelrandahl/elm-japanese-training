@@ -1,0 +1,9 @@
+- create json hiragana
+- create json words katakana
+- create json words hiragana
+- design word quiz
+- create modal cheat window in Elm
+- refactor to be able to handle hiragana
+- create initial menu view?
+- create quiz view?
+- simplify decoder?

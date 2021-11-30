@@ -1,0 +1,27 @@
+Digraphs with diacritics | yōon with (han)dakuten
+ya	yu	yo
+
+G
+ギャ gya [ɡʲa]
+ギュ gyu [ɡʲɯ]
+ギョ gyo [ɡʲo]
+
+J
+ジャ ja [(d)ʑa]
+ジュ ju [(d)ʑɯ]
+ジョ jo [(d)ʑo]
+
+D
+ヂャ ja [(d)ʑa]
+ヂュ ju [(d)ʑɯ]
+ヂョ jo [(d)ʑo]
+
+B
+ビャ bya [bʲa]
+ビュ byu [bʲɯ]
+ビョ byo [bʲo]
+
+P
+ピャ pya [pʲa]
+ピュ pyu [pʲɯ]
+ピョ pyo [pʲo]

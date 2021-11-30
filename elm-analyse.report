@@ -1,0 +1,9 @@
+Found 4 message(s)
+
+Messages:
+- src/DecodeJapaneseCharsJson.elm
+  > Unused imported variable `at` at ((3,49),(3,51))
+- src/Quiz.elm
+  > Value constructor `Foobar` is not used. Declared at ((21,7),(21,13))
+  > Unused top level definition `Foobar` at ((21,7),(21,13))
+  > `TODO` should not be used in comments at ((90,1),(90,79))
